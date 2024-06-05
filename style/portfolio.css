@@ -145,5 +145,21 @@ main section{
 }
 .resume-container{
     display: flex;
-    gap: 24px;
+    gap: 50px;
+}
+.resume-item-description , .resume-item-institute{
+    color: #757575;
+}
+/* .resume-item-institute{
+    font-size: 25px;
+} */
+.resume-item-tittle{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
